@@ -49,7 +49,7 @@ showcase:
 # about
 about:
   enable: true
-  title: "Who am I?"
+  title: "Cine suntem noi?"
   content: '<p class="lead">
     I am back, after a few days of vacationing with family. Weather was awesome, the beach was
     full of nasty jelly-fish, yuk! All-in-all, life has been good. I hope life has been as
@@ -71,7 +71,7 @@ about:
 # education
 education:
   enable: true
-  title: "Education"
+  title: "Ariile pe care le acoperim"
   items:
     - university: "University of Waterloo"
       year: "2012-2017"
@@ -84,7 +84,7 @@ education:
 # experience
 experience:
   enable: true
-  title: "Experience"
+  title: "Programele în care lucrăm"
   description: "Over 15+ years of experience working with companies from all over the world. I design & develop digital products to help businesses and improve people's lives."
   button:
     icon: "icon-linkedin-fill"
@@ -110,7 +110,7 @@ experience:
 
 # Client & Work
 client_and_work:
-  title: "Clients & Works"
+  title: "Stiluri arhitecturale"
   enable: true
 
   clients:
@@ -210,21 +210,21 @@ contact:
   title: "Contact"
   form:
     action: "#"
-    full_name: "Full Name"
-    email: "Email Address"
-    message: "Type Your Message Here"
+    full_name: "Nume"
+    email: "Email"
+    message: "Mesajul Tău"
   phone:
-    title: "Phone Number"
+    title: "Telefon"
     number: "+41 (44) 505 10 99"
   email:
     title: "Email"
     email: '<a href="mailto:team@radity.com">team@radity.com</a>'
   address:
     title: "Address"
-    address: "Radity GmbH<br />Max-Bill-Platz 5, 8050 Zürich"
+    address: "Alba Iulia, Str. Calea Moților, Nr. 95, Bl. M2A, Ap. 13, județ ALBA"
   button:
     icon: "icon-mail-fill"
-    btnText: "Send Message"
+    btnText: "Trimite"
 
 # newsletter
 newsletter:

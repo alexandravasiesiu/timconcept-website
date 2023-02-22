@@ -32,20 +32,20 @@ params:
       alt: Design & Code - Radity
 menu:
   header:
-    - name: About
+    - name: Despre
       URL: "#about"
       weight: 2
-    - name: Portfolio
+    - name: Portofoliu
       URL: "#portfolio"
       weight: 3
     - name: Contact
       URL: "#contact"
       weight: 4
   footer:
-    - name: About
+    - name: Despre
       URL: "#about"
       weight: 2
-    - name: Portfolio
+    - name: Portofoliu
       URL: "#portfolio"
       weight: 3
     - name: Contact
