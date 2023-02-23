@@ -21,14 +21,16 @@ params:
     - contact
     - newsletter
   googleTagManagerID: GTM-000000
-  logo:
-    text1: Andreas
-    text2: Ellure
+  header:
+    logo:
+      x: img/general/logo-dark.png
+      _2x: img/general/logo-dark@2x.png
+      alt: Design & Code - Radity
   footer:
-    copyright: © Raditian. All rights reserved.
+    copyright: © Toate drepturile rezervate.
     radity_logo:
-      x: img/general/design-and-code-radity.png
-      _2x: img/general/design-and-code-radity@2x.png
+      x: img/general/logo-light.png
+      _2x: img/general/logo-light@2x.png
       alt: Design & Code - Radity
 menu:
   header:
