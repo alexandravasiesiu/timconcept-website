@@ -12,35 +12,32 @@ showcase:
   button:
     icon: "icon-mail-fill"
     btnText: "Contact"
-    URL: "https://radity.com/en/contact/"
+    URL: "#contact"
 
   socialLinks:
     - icon: "linkedin"
-      URL: "https://www.linkedin.com/company/radity/"
+      URL: "https://www.linkedin.com"
 
     - icon: "github"
-      URL: "https://github.com/radity"
+      URL: "https://github.com"
 
     - icon: "twitter"
-      URL: "https://twitter.com/radity"
+      URL: "https://twitter.com"
 
     - icon: "dribbble"
-      URL: "https://dribbble.com/radity"
+      URL: "https://dribbble.com"
 
     - icon: "behance"
-      URL: "https://www.behance.net/radity-digital"
+      URL: "https://www.behance.net"
 
     - icon: "youtube"
-      URL: "https://www.youtube.com/channel/UCojEc6SPO-W1_CoeHhK9-Zw"
+      URL: "https://www.youtube.com"
 
     - icon: "instagram"
-      URL: "https://www.instagram.com/teamradity/"
+      URL: "https://www.instagram.com"
 
     - icon: "facebook"
-      URL: "https://www.facebook.com/raditycom/"
-
-    - icon: "codepen"
-      URL: "#"
+      URL: "https://www.facebook.com"
 
     - icon: "yelp"
       URL: "https://www.yelp.com/"
@@ -58,7 +55,7 @@ about:
   button:
     icon: "icon-linkedin-fill"
     btnText: "Linkedin"
-    URL: "https://www.linkedin.com/company/radity/"
+    URL: "https://www.linkedin.com"
   image:
     x: "img/who-am-i/user-picture.png"
     _2x: "img/who-am-i/user-picture@2x.png"
@@ -69,8 +66,10 @@ education:
   title: "Ariile pe care le acoperim"
   items:
     - university: "Dezvoltarea conceptului"
+      image: "img/idea.svg"
 
     - university: "Realizarea planului de arhitectură"
+      image: "img/design.svg"
 
 # experience
 experience:
@@ -78,53 +77,47 @@ experience:
   title: "Programele în care operăm"
 
   items:
-    - title: "Sr. Front-End Developer"
+    - title: "Allpan Architecture"
       company: "Radity"
       duration: "Feb 2011 - Sep 2019"
 
-    - title: "Sr. Front-End Developer"
+    - title: "AutoCAD"
       company: "Textic"
       duration: "Apr 2010 - Jan 2011"
 
-    - title: "Jr. Front-End Developer"
+    - title: "SketchUp"
       company: "Cyberse"
       duration: "Jun 2009 - Mar 2010"
 
 # Client & Work
 client_and_work:
-  title: "Stiluri arhitecturale"
+  title: "Stiluri & Reviste de arhitectură"
   enable: true
 
   clients:
     - logo:
-        x: "img/clients/asgardia.png"
-        _2x: "img/clients/asgardia@2x.png"
-      alt: "Asgardia"
-
-    - logo:
         x: "img/clients/earth-2.png"
         _2x: "img/clients/earth-2@2x.png"
       alt: "Earth 2.0"
+      URL: "https://arhitectura-1906.ro/"
 
     - logo:
         x: "img/clients/goldline.png"
         _2x: "img/clients/goldline@2x.png"
       alt: "Goldline"
+      URL: "https://e-zeppelin.ro/"
 
     - logo:
         x: "img/clients/kanba.png"
         _2x: "img/clients/kanba@2x.png"
       alt: "Kanba"
+      URL: "https://www.igloo.ro/"
 
     - logo:
         x: "img/clients/zoo-tv.png"
         _2x: "img/clients/zoo-tv@2x.png"
       alt: "Zoo"
-
-    - logo:
-        x: "img/clients/ztos.png"
-        _2x: "img/clients/ztos@2x.png"
-      alt: "Ztos"
+      URL: "https://www.arhitext.com/"
 
   works:
     - title: "MODERNIST"
@@ -153,23 +146,20 @@ testimonial:
   enable: true
   title: "Testimoniale"
   items:
-    - name: "Andrei"
-      position: "Phonet, CEO"
+    - name: "Simona"
       content: "Am avut plăcerea de a lucra cu firma de arhitectură Tim Concept Apullum la un proiect recent de construcție comercială și nu pot să-i recomand destul de mult. De la început până la sfârșit, echipa lor a fost profesională, bine informată și angajată să livreze rezultate excepționale."
       image:
         x: "img/testimonials/daniel-jordan.jpg"
         _2x: "img/testimonials/daniel-jordan@2x.jpg"
 
-    - name: "Simona"
-      position: "Textic, CEO"
+    - name: "Andrei"
       content: "Unul dintre lucrurile care m-au impresionat cel mai mult în timpul colaborării cu această firmă a fost capacitatea lor de a asculta cu adevărat nevoile și obiectivele noastre pentru proiect. Au petrecut timp pentru a înțelege viziunea și prioritățile noastre, apoi au tradus acestea într-un design uimitor care a depășit așteptările noastre."
       image:
         x: "img/testimonials/jonathan-peters.jpg"
         _2x: "img/testimonials/jonathan-peters@2x.jpg"
 
     - name: "Gabriel"
-      position: "Cyberse, CEO"
-      content: "Datorită firmei de arhitectură Tim Concept, acum avem o clădire frumoasă și funcțională care se potrivește perfect nevoilor noastre. Nu aș ezita să-i recomand pe cineva care are nevoie de servicii de arhitectură."
+      content: "Datorită firmei de arhitectură Tim Concept, acum avem o clădire frumoasă și funcțională care se potrivește perfect nevoilor noastre. Atentia lor la detalii și angajamentul pentru calitate s-a văzut în fiecare aspect al proiectului. Nu aș ezita să-i recomand pe cineva care are nevoie de servicii de arhitectură."
       image:
         x: "img/testimonials/antonio-willis.jpg"
         _2x: "img/testimonials/antonio-willis@2x.jpg"
@@ -188,18 +178,10 @@ contact:
     number: "+41 (44) 505 10 99"
   email:
     title: "Email"
-    email: '<a href="mailto:team@radity.com">team@radity.com</a>'
+    email: '<a href="mailto:timconceptapullum@gmail.com">timconceptapullum@gmail.com</a>'
   address:
     title: "Adresa"
     address: "Alba Iulia, Str. Calea Moților, Nr. 95, Bl. M2A, Ap. 13, județ ALBA"
   button:
     icon: "icon-mail-fill"
     btnText: "Trimite"
-
-# newsletter
-newsletter:
-  enable: true
-  title: "Newsletter subscription"
-  success_message: "Successfully subscribed"
-  error_message: "Error while subscribing."
-  note: "We'll never share your email with anyone else."

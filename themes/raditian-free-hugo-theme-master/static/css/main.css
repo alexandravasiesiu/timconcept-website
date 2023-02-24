@@ -9991,11 +9991,11 @@ html body {
     "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
 }
 html body ::-moz-selection {
-  background-color: #e93e34;
+  background-color: #002728;
   color: #fff;
 }
 html body ::selection {
-  background-color: #e93e34;
+  background-color: #002728;
   color: #fff;
 }
 input[type="text"]:focus,

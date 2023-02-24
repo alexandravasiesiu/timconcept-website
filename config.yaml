@@ -19,7 +19,6 @@ params:
     - client-and-work
     - testimonial
     - contact
-    - newsletter
   googleTagManagerID: GTM-000000
   header:
     logo:
@@ -37,7 +36,7 @@ menu:
     - name: Despre
       URL: "#about"
       weight: 2
-    - name: Portofoliu
+    - name: Stiluri & Reviste
       URL: "#portfolio"
       weight: 3
     - name: Contact
@@ -47,7 +46,7 @@ menu:
     - name: Despre
       URL: "#about"
       weight: 2
-    - name: Portofoliu
+    - name: Stiluri & Reviste
       URL: "#portfolio"
       weight: 3
     - name: Contact
