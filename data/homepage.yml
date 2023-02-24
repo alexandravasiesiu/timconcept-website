@@ -14,34 +14,6 @@ showcase:
     btnText: "Contact"
     URL: "#contact"
 
-  socialLinks:
-    - icon: "linkedin"
-      URL: "https://www.linkedin.com"
-
-    - icon: "github"
-      URL: "https://github.com"
-
-    - icon: "twitter"
-      URL: "https://twitter.com"
-
-    - icon: "dribbble"
-      URL: "https://dribbble.com"
-
-    - icon: "behance"
-      URL: "https://www.behance.net"
-
-    - icon: "youtube"
-      URL: "https://www.youtube.com"
-
-    - icon: "instagram"
-      URL: "https://www.instagram.com"
-
-    - icon: "facebook"
-      URL: "https://www.facebook.com"
-
-    - icon: "yelp"
-      URL: "https://www.yelp.com/"
-
 # about
 about:
   enable: true
@@ -56,6 +28,14 @@ about:
     icon: "icon-linkedin-fill"
     btnText: "Linkedin"
     URL: "https://www.linkedin.com"
+  button2:
+    icon: "icon-facebook-line"
+    btnText: "Facebook"
+    URL: "https://www.facebook.com"
+  button3:
+    icon: "icon-instagram-line"
+    btnText: "Instagram"
+    URL: "https://www.instagram.com"
   image:
     x: "img/who-am-i/user-picture.png"
     _2x: "img/who-am-i/user-picture@2x.png"
@@ -169,7 +149,7 @@ contact:
   enable: true
   title: "Contact"
   form:
-    action: "#"
+    action: "https://formsubmit.co/vasivasiesiu@gmail.com"
     full_name: "Nume"
     email: "Email"
     message: "Mesajul Tău"
