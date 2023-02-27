@@ -24,13 +24,13 @@ params:
     logo:
       x: img/general/logo-dark.png
       _2x: img/general/logo-dark@2x.png
-      alt: Design & Code - Radity
+      alt: Tim Concept Apullum
   footer:
     copyright: © Toate drepturile rezervate.
     radity_logo:
       x: img/general/logo-light.png
       _2x: img/general/logo-light@2x.png
-      alt: Design & Code - Radity
+      alt: Tim Concept Apullum
 menu:
   header:
     - name: Despre
