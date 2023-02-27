@@ -58,16 +58,10 @@ experience:
 
   items:
     - title: "Allpan Architecture"
-      company: "Radity"
-      duration: "Feb 2011 - Sep 2019"
 
     - title: "AutoCAD"
-      company: "Textic"
-      duration: "Apr 2010 - Jan 2011"
 
     - title: "SketchUp"
-      company: "Cyberse"
-      duration: "Jun 2009 - Mar 2010"
 
 # Client & Work
 client_and_work:
@@ -76,49 +70,49 @@ client_and_work:
 
   clients:
     - logo:
-        x: "img/clients/earth-2.png"
-        _2x: "img/clients/earth-2@2x.png"
-      alt: "Earth 2.0"
+        x: "img/clients/arhitectura-1906.png"
+        _2x: "img/clients/arhitectura-1906@2x.png"
+      alt: "Arhitectura-1906"
       URL: "https://arhitectura-1906.ro/"
 
     - logo:
-        x: "img/clients/goldline.png"
-        _2x: "img/clients/goldline@2x.png"
-      alt: "Goldline"
+        x: "img/clients/zeppelin.png"
+        _2x: "img/clients/zeppelin@2x.png"
+      alt: "E-zeppelin"
       URL: "https://e-zeppelin.ro/"
 
     - logo:
-        x: "img/clients/kanba.png"
-        _2x: "img/clients/kanba@2x.png"
-      alt: "Kanba"
+        x: "img/clients/igloo.png"
+        _2x: "img/clients/igloo@2x.png"
+      alt: "Igloo"
       URL: "https://www.igloo.ro/"
 
     - logo:
-        x: "img/clients/zoo-tv.png"
-        _2x: "img/clients/zoo-tv@2x.png"
-      alt: "Zoo"
+        x: "img/clients/arhitext.png"
+        _2x: "img/clients/arhitext@2x.png"
+      alt: "Arhitext"
       URL: "https://www.arhitext.com/"
 
   works:
     - title: "MODERNIST"
       description: "Arhitectura modernă subliniază simplitatea, funcționalitatea și utilizarea de noi materiale și tehnici de construcție, adesea cu linii curate, spații deschise și accent pe utilizarea sticlei, oțelului și betonului, cu respingerea stilurilor istorice și a elementelor decorative."
       image:
-        x: "img/works/radity-finance.jpg"
-        _2x: "img/works/radity-finance@2x.jpg"
+        x: "img/works/modernist.jpg"
+        _2x: "img/works/modernist@2x.jpg"
       is_even: true
 
     - title: "POSTMODERNIST"
       description: "Arhitectura postmodernă se caracterizează prin amestecul jucăuș de stiluri istorice, accentul pe ornamentație și decor, utilizarea de culori vii, forme neobișnuite și materiale neașteptate pentru a crea structuri interesante vizual."
       image:
-        x: "img/works/swissfintech.jpg"
-        _2x: "img/works/swissfintech@2x.jpg"
+        x: "img/works/postmodernist.jpg"
+        _2x: "img/works/postmodernist@2x.jpg"
       is_even: false
 
     - title: "ECLECTIC"
       description: "Arhitectura eclectică combină elemente din diferite stiluri și tradiții istorice, pentru a crea o apariție unică și diversă, reflectând gusturile individuale ale arhitectului și clientului."
       image:
-        x: "img/works/robo-advisor.jpg"
-        _2x: "img/works/robo-advisor@2x.jpg"
+        x: "img/works/eclectic.jpg"
+        _2x: "img/works/eclectic@2x.jpg"
       is_even: true
 
 # testimonial
@@ -129,20 +123,20 @@ testimonial:
     - name: "Simona"
       content: "Am avut plăcerea de a lucra cu firma de arhitectură Tim Concept Apullum la un proiect recent de construcție comercială și nu pot să-i recomand destul de mult. De la început până la sfârșit, echipa lor a fost profesională, bine informată și angajată să livreze rezultate excepționale."
       image:
-        x: "img/testimonials/daniel-jordan.jpg"
-        _2x: "img/testimonials/daniel-jordan@2x.jpg"
+        x: "img/testimonials/simona.jpg"
+        _2x: "img/testimonials/simona@2x.jpg"
 
     - name: "Andrei"
       content: "Unul dintre lucrurile care m-au impresionat cel mai mult în timpul colaborării cu această firmă a fost capacitatea lor de a asculta cu adevărat nevoile și obiectivele noastre pentru proiect. Au petrecut timp pentru a înțelege viziunea și prioritățile noastre, apoi au tradus acestea într-un design uimitor care a depășit așteptările noastre."
       image:
-        x: "img/testimonials/jonathan-peters.jpg"
-        _2x: "img/testimonials/jonathan-peters@2x.jpg"
+        x: "img/testimonials/andrei.jpg"
+        _2x: "img/testimonials/andrei@2x.jpg"
 
     - name: "Gabriel"
       content: "Datorită firmei de arhitectură Tim Concept, acum avem o clădire frumoasă și funcțională care se potrivește perfect nevoilor noastre. Atentia lor la detalii și angajamentul pentru calitate s-a văzut în fiecare aspect al proiectului. Nu aș ezita să-i recomand pe cineva care are nevoie de servicii de arhitectură."
       image:
-        x: "img/testimonials/antonio-willis.jpg"
-        _2x: "img/testimonials/antonio-willis@2x.jpg"
+        x: "img/testimonials/gabriel.jpg"
+        _2x: "img/testimonials/gabriel@2x.jpg"
 
 # contact
 contact:
