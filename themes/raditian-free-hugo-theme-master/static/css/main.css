@@ -9495,6 +9495,8 @@ span a:hover {
   transition-duration: 0.35s;
   -webkit-transition-timing-function: ease;
   transition-timing-function: ease;
+  margin-top: 5px;
+  width: 150px;
 }
 .btn-primary:hover {
   color: #000;
@@ -10227,7 +10229,7 @@ textarea:focus {
   margin-right: 0;
 }
 .header .navbar-brand img {
-  width: 117px;
+  width: 156px;
   max-height: 50px;
   -o-object-fit: contain;
   object-fit: contain;
@@ -10246,7 +10248,7 @@ textarea:focus {
 }
 @media (min-width: 768px) {
   .header .navbar-brand img {
-    width: 156px;
+    width: 250px;
     max-height: 70px;
   }
   .header .navbar-brand span:first-child {
