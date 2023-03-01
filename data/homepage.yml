@@ -143,16 +143,16 @@ contact:
   enable: true
   title: "Contact"
   form:
-    action: "https://formsubmit.co/vasivasiesiu@gmail.com"
+    action: "https://formsubmit.co/office@timconcept.ro"
     full_name: "Nume"
     email: "Email"
     message: "Mesajul Tău"
   phone:
     title: "Telefon"
-    number: "+41 (44) 505 10 99"
+    number: "+40 740 698 590"
   email:
     title: "Email"
-    email: '<a href="mailto:timconceptapullum@gmail.com">timconceptapullum@gmail.com</a>'
+    email: '<a href="mailto:office@timconcept.ro">office@timconcept.ro</a>'
   address:
     title: "Adresa"
     address: "Alba Iulia, Str. Calea Moților, Nr. 95, Bl. M2A, Ap. 13, județ ALBA"
