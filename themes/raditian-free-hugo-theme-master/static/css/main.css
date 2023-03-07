@@ -10457,6 +10457,16 @@ textarea:focus {
   align-items: center;
   grid-area: right;
 }
+.footer__right img {
+  width: 250px;
+  max-height: 70px;
+}
+@media (min-width: 768px) {
+  .footer__right img {
+    width: 156px;
+    max-height: 50px;
+  }
+} 
 .footer__links {
   -webkit-box-flex: 1;
   flex: 1;
