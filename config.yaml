@@ -36,7 +36,7 @@ menu:
     - name: Despre
       URL: "#about"
       weight: 2
-    - name: Stiluri & Reviste
+    - name: Construcții
       URL: "#portfolio"
       weight: 3
     - name: Contact
@@ -46,7 +46,7 @@ menu:
     - name: Despre
       URL: "#about"
       weight: 2
-    - name: Stiluri & Reviste
+    - name: Construcții
       URL: "#portfolio"
       weight: 3
     - name: Contact

@@ -19,10 +19,10 @@ about:
   enable: true
   title: "Cine suntem noi?"
   content: '<p class="lead">
-    Suntem o firmă modernă de arhitectură, specializată în crearea de spații inovatoare și durabile. Abordăm fiecare proiect într-un mod colaborativ, pentru a asigura că reflectă nevoile și dorințele unice ale clienților noștri.
+    Suntem o echipă de experți pasionați, specializați în oferirea de servicii de proiectare profesionale și inovatoare. De la concepție la implementare, vă sprijinim în atingerea obiectivelor dumneavoastră. Cu o abordare orientată către excelență și calitate, ne asigurăm că fiecare proiect depășește așteptările. 
     </p>
     <p class="lead">
-    Cu o echipă talentată, aducem pasiune și creativitate în fiecare proiect pe care îl realizăm.
+    Contactați-ne acum pentru a discuta despre cum vă putem ajuta să vă transformați viziunea în realitate.
     </p>'
   button:
     icon: "icon-linkedin-fill"
@@ -43,13 +43,19 @@ about:
 # education
 education:
   enable: true
-  title: "Ariile pe care le acoperim"
+  title: "Serviciile pe care le oferim"
   items:
-    - university: "Dezvoltarea conceptului"
+    - university: "Consulță"
       image: "img/idea.svg"
 
-    - university: "Realizarea planului de arhitectură"
+    - university: "Proiectare completă"
       image: "img/design.svg"
+    
+    - university: "Dirigenție de șantier"
+      image: "img/inginer.svg"
+
+    - university: "Execuție"
+      image: "img/crane.svg"
 
 # experience
 experience:
@@ -57,62 +63,39 @@ experience:
   title: "Programele în care operăm"
 
   items:
-    - title: "Allpan Architecture"
+    - title: "ArchiCAD 26"
 
-    - title: "AutoCAD"
+    - title: "Eptar Reinforcement 4.0"
 
-    - title: "SketchUp"
+    - title: "ZwCAD Professional 2022"
 
+    - title: "AxisVM X6 Professional"
+    
 # Client & Work
 client_and_work:
-  title: "Stiluri & Reviste de arhitectură"
+  title: "Ariile pe care le acoperim"
   enable: true
 
-  clients:
-    - logo:
-        x: "img/clients/arhitectura-1906.png"
-        _2x: "img/clients/arhitectura-1906@2x.png"
-      alt: "Arhitectura-1906"
-      URL: "https://arhitectura-1906.ro/"
-
-    - logo:
-        x: "img/clients/zeppelin.png"
-        _2x: "img/clients/zeppelin@2x.png"
-      alt: "E-zeppelin"
-      URL: "https://e-zeppelin.ro/"
-
-    - logo:
-        x: "img/clients/igloo.png"
-        _2x: "img/clients/igloo@2x.png"
-      alt: "Igloo"
-      URL: "https://www.igloo.ro/"
-
-    - logo:
-        x: "img/clients/arhitext.png"
-        _2x: "img/clients/arhitext@2x.png"
-      alt: "Arhitext"
-      URL: "https://www.arhitext.com/"
-
   works:
-    - title: "MODERNIST"
-      description: "Arhitectura modernă subliniază simplitatea, funcționalitatea și utilizarea de noi materiale și tehnici de construcție, adesea cu linii curate, spații deschise și accent pe utilizarea sticlei, oțelului și betonului, cu respingerea stilurilor istorice și a elementelor decorative."
+    - title: "Construcții CIVILE"
+      description: "Clădiri rezidențiale, comerciale sau instituționale destinate locuirii, comerțului, serviciilor publice, educatței, sănătații etc. Construcțiile civile sunt proiectate pentru a oferi confort, funcționalitate și estetică, adaptându-se nevoilor și preferințelor utilizatorilor."
       image:
-        x: "img/works/modernist.jpg"
-        _2x: "img/works/modernist@2x.jpg"
+        x: "img/works/civile.jpg"
+        _2x: "img/works/civile@2x.jpg"
       is_even: true
 
-    - title: "POSTMODERNIST"
-      description: "Arhitectura postmodernă se caracterizează prin amestecul jucăuș de stiluri istorice, accentul pe ornamentație și decor, utilizarea de culori vii, forme neobișnuite și materiale neașteptate pentru a crea structuri interesante vizual."
+    - title: "Constructții INDUSTRIALE"
+      description: "Clădiri și facilități specifice industriilor, cum ar fi hale industriale, fabrici, uzine, depozite, platforme logistice etc. Aceste construcții sunt proiectate pentru a facilita producția, depozitarea și logistică, oferind spații ample și facilități specifice pentru diverse activități industriale. "
       image:
-        x: "img/works/postmodernist.jpg"
-        _2x: "img/works/postmodernist@2x.jpg"
+        x: "img/works/industrial.jpg"
+        _2x: "img/works/industrial@2x.jpg"
       is_even: false
 
-    - title: "ECLECTIC"
-      description: "Arhitectura eclectică combină elemente din diferite stiluri și tradiții istorice, pentru a crea o apariție unică și diversă, reflectând gusturile individuale ale arhitectului și clientului."
+    - title: "Construcții AGRICOLE"
+      description: "Structurile si facilitățile utilizate in agricultură, cum ar fi adaposturi pentru animale, silozuri, sere, hambare etc. Aceste construcții sunt concepute pentru a asigura un mediu adecvat pentru creșterea și stocarea produselor agricole, având în vedere factori precum ventilația, protecția împotriva intemperiilor și necesitățile specifice ale plantelor și animalelor."
       image:
-        x: "img/works/eclectic.jpg"
-        _2x: "img/works/eclectic@2x.jpg"
+        x: "img/works/agricole.jpg"
+        _2x: "img/works/agricole@2x.jpg"
       is_even: true
 
 # testimonial
@@ -121,19 +104,19 @@ testimonial:
   title: "Testimoniale"
   items:
     - name: "Simona"
-      content: "Am avut plăcerea de a lucra cu firma de arhitectură Tim Concept Apullum la un proiect recent de construcție comercială și nu pot să-i recomand destul de mult. De la început până la sfârșit, echipa lor a fost profesională, bine informată și angajată să livreze rezultate excepționale."
+      content: "Am avut plăcerea de a lucra cu firma de proiectare Tim Concept Apullum la un proiect recent de construcție comercială și nu pot să-i recomand destul de mult. De la început până la sfârșit, echipa lor a fost profesională, bine informată și angajată să livreze rezultate excepționale."
       image:
         x: "img/testimonials/simona.jpg"
         _2x: "img/testimonials/simona@2x.jpg"
 
     - name: "Andrei"
-      content: "Unul dintre lucrurile care m-au impresionat cel mai mult în timpul colaborării cu această firmă a fost capacitatea lor de a asculta cu adevărat nevoile și obiectivele noastre pentru proiect. Au petrecut timp pentru a înțelege viziunea și prioritățile noastre, apoi au tradus acestea într-un design uimitor care a depășit așteptările noastre."
+      content: "Unul dintre lucrurile care m-au impresionat cel mai mult în timpul colaborării cu această firmă a fost capacitatea lor de a asculta cu adevărat nevoile și obiectivele noastre pentru proiect. Au petrecut timp pentru a înțelege viziunea și prioritățile noastre, apoi au tradus acestea într-un proiect uimitor care a depășit așteptările noastre."
       image:
         x: "img/testimonials/andrei.jpg"
         _2x: "img/testimonials/andrei@2x.jpg"
 
     - name: "Gabriel"
-      content: "Datorită firmei de arhitectură Tim Concept, acum avem o clădire frumoasă și funcțională care se potrivește perfect nevoilor noastre. Atentia lor la detalii și angajamentul pentru calitate s-a văzut în fiecare aspect al proiectului. Nu aș ezita să-i recomand pe cineva care are nevoie de servicii de arhitectură."
+      content: "Datorită firmei de proiectare Tim Concept, acum avem o clădire frumoasă și funcțională care se potrivește perfect nevoilor noastre. Atentia lor la detalii și angajamentul pentru calitate s-a văzut în fiecare aspect al proiectului. Nu aș ezita să-i recomand cuiva care are nevoie de astfel de servicii."
       image:
         x: "img/testimonials/gabriel.jpg"
         _2x: "img/testimonials/gabriel@2x.jpg"
