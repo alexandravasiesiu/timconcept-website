@@ -9372,6 +9372,7 @@ h2 {
   h2 {
     margin-bottom: 10px;
     font-size: 48px;
+    margin-top: 80px;
   }
 }
 h3 {
@@ -9878,6 +9879,7 @@ html body {
   font-size: 20px;
   font-weight: 600;
   z-index: 2;
+  display: list-item;
 }
 @media (min-width: 992px) {
   .experience__title {
