@@ -132,7 +132,7 @@ contact:
     message: "Mesajul Tău"
   phone:
     title: "Telefon"
-    number: "+40 740 698 590"
+    number: "0740 698 590"
   email:
     title: "Email"
     email: '<a href="mailto:office@timconcept.ro">office@timconcept.ro</a>'
