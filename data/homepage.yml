@@ -24,18 +24,6 @@ about:
     <p class="lead">
     Contactați-ne acum pentru a discuta despre cum vă putem ajuta să vă transformați viziunea în realitate.
     </p>'
-  button:
-    icon: "icon-linkedin-fill"
-    btnText: "Linkedin"
-    URL: "https://www.linkedin.com"
-  button2:
-    icon: "icon-facebook-line"
-    btnText: "Facebook"
-    URL: "https://www.facebook.com"
-  button3:
-    icon: "icon-instagram-line"
-    btnText: "Instagram"
-    URL: "https://www.instagram.com"
   image:
     x: "img/who-am-i/user-picture.png"
     _2x: "img/who-am-i/user-picture@2x.png"
@@ -45,7 +33,7 @@ education:
   enable: true
   title: "Serviciile pe care le oferim"
   items:
-    - university: "Consulță"
+    - university: "Consultanță"
       image: "img/idea.svg"
 
     - university: "Proiectare completă"
@@ -78,14 +66,14 @@ client_and_work:
 
   works:
     - title: "Construcții CIVILE"
-      description: "Clădiri rezidențiale, comerciale sau instituționale destinate locuirii, comerțului, serviciilor publice, educatței, sănătații etc. Construcțiile civile sunt proiectate pentru a oferi confort, funcționalitate și estetică, adaptându-se nevoilor și preferințelor utilizatorilor."
+      description: "Clădiri rezidențiale, comerciale sau instituționale destinate locuirii, comerțului, serviciilor publice, educației, sănătații etc. Construcțiile civile sunt proiectate pentru a oferi confort, funcționalitate și estetică, adaptându-se nevoilor și preferințelor utilizatorilor."
       image:
         x: "img/works/civile.jpg"
         _2x: "img/works/civile@2x.jpg"
       is_even: true
 
-    - title: "Constructții INDUSTRIALE"
-      description: "Clădiri și facilități specifice industriilor, cum ar fi hale industriale, fabrici, uzine, depozite, platforme logistice etc. Aceste construcții sunt proiectate pentru a facilita producția, depozitarea și logistică, oferind spații ample și facilități specifice pentru diverse activități industriale. "
+    - title: "Construcții INDUSTRIALE"
+      description: "Clădiri și facilități specifice industriilor, cum ar fi hale industriale, fabrici, uzine, depozite, platforme logistice etc. Aceste construcții sunt proiectate pentru a facilita producția, depozitarea și logistica, oferind spații ample și facilități specifice pentru diverse activități industriale. "
       image:
         x: "img/works/industrial.jpg"
         _2x: "img/works/industrial@2x.jpg"
