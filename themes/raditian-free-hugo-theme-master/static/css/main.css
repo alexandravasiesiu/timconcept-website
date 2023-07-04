@@ -1054,8 +1054,8 @@ pre code {
   -webkit-box-flex: 0;
   flex: 0 0 100%;
   max-width: 100%;
-  margin-left: 2rem;
 }
+
 .order-first {
   -webkit-box-ordinal-group: 0;
   order: -1;
@@ -1191,7 +1191,6 @@ pre code {
     -webkit-box-flex: 0;
     flex: 0 0 50%;
     max-width: 50%;
-    margin: 0;
   }
   .col-sm-7 {
     -webkit-box-flex: 0;
